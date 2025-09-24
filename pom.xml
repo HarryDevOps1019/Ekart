@@ -155,8 +155,8 @@
       <url>http://43.204.221.191:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
-      <id>nexus</id>
-      <name>Snapshot</name>
+      <id>maven</id>
+      <name>maven-snapshots</name>
       <url>http://43.204.221.191:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
